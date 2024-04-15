@@ -1,0 +1,78 @@
+{
+  "users": [],
+  "billing": [
+    {
+      "name": "shohjahon uktamov",
+      "companyname": "shokhuk",
+      "email": "shokhuk006@gmail.com",
+      "vatnumber": "1234545",
+      "moneytransition": "4500",
+      "id": 4
+    },
+    {
+      "name": "FrontEnd developer",
+      "companyname": "shokhuk",
+      "email": "shokhuk006@gmail.com",
+      "vatnumber": "5444454",
+      "moneytransition": "2500",
+      "id": 5
+    }
+  ],
+  "tables": [
+    {
+      "name": "otkir uktamov",
+      "email": "otkir334@gmail.com",
+      "function": "projects",
+      "position": "junior teacher",
+      "offline": null,
+      "online": "online",
+      "employed": "14/02/2025",
+      "id": 8
+    },
+    {
+      "name": "maftuna oktamova",
+      "email": "shokhuk006@gmail.com",
+      "function": "organisition",
+      "position": "manager",
+      "offline": null,
+      "online": "online",
+      "employed": "13/02/2024",
+      "id": 12
+    }
+  ],
+  "projects": [
+    {
+      "companies": "melek mchj",
+      "budget": "400$",
+      "status": "canceled",
+      "completion": "10%",
+      "id": 6
+    },
+    {
+      "companies": "melek mchj",
+      "budget": "3000$",
+      "status": "canceled",
+      "completion": "10%",
+      "id": 8
+    },
+    {
+      "companies": "agrokalster mchj",
+      "budget": "10.000",
+      "status": "working",
+      "completion": "67%",
+      "id": 9
+    }
+  ],
+  "cards": [
+    {
+      "mastercard": "3445443433",
+      "visacard": "46452434534",
+      "id": 1
+    },
+    {
+      "mastercard": "3593434",
+      "visacard": "23943923",
+      "id": 2
+    }
+  ]
+}
